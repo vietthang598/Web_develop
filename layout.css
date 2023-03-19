@@ -1,0 +1,77 @@
+body{
+    background-color: #9ea3a7;
+    margin-bottom: 50px;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  header {
+    background-color: #b2bdc5;
+    padding: 60px;
+    width: 100%;
+    padding-right: 0;
+    text-align:center;
+    font-size: 35px;
+    color: white;
+    font-weight:bold;
+    
+
+  }
+  #locate,#intro{
+    padding-top: 10px;
+  }
+  nav { 
+    background: #4e5255;
+    padding: 10px;
+    bottom: 600px;
+  }
+  p{
+    color: white;
+  }
+  table, th, td {
+    border:1px solid black;
+  }
+  h2{
+    color: white;
+  }
+
+  .a{
+    color: white;
+  }
+
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 5%;
+  }
+
+
+
+/* Get Boostrap */
+
+  .dropdown-item{
+    color: rgb(0, 0, 0);
+  }
+  
+/*----------------------------------------------------------------*/
+  
+
+  /* w3school */
+  .w3-sidebar{
+    background-color: #5f6264;
+    
+  }
+
+  .w3-bar-item{
+    color: white;
+  }
+  .w3-container{
+    padding: 0%;
+  }
+
+/*    */
